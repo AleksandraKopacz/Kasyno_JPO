@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1654005271 source:c:\programy\projekt - kasyno\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	"Gracz.h"
+	"JednorekiBandyta.h"
+	"Blackjack.h"
+	"Ruletka.h"
+
+1654005196 c:\programy\projekt - kasyno\gracz.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1654005196 c:\programy\projekt - kasyno\jednorekibandyta.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Gracz.h"
+
+1654004860 c:\programy\projekt - kasyno\blackjack.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Gracz.h"
+
+1654005196 c:\programy\projekt - kasyno\ruletka.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Gracz.h"
+
+1654005361 source:c:\users\aleks\documents\uczelnia\2_jêzyki programowania obiektowego\aleksandra kopacz projekt - kasyno\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	"Gracz.h"
+	"JednorekiBandyta.h"
+	"Blackjack.h"
+	"Ruletka.h"
+
+1654005196 c:\users\aleks\documents\uczelnia\2_jêzyki programowania obiektowego\aleksandra kopacz projekt - kasyno\gracz.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1654005196 c:\users\aleks\documents\uczelnia\2_jêzyki programowania obiektowego\aleksandra kopacz projekt - kasyno\jednorekibandyta.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Gracz.h"
+
+1654004860 c:\users\aleks\documents\uczelnia\2_jêzyki programowania obiektowego\aleksandra kopacz projekt - kasyno\blackjack.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Gracz.h"
+
+1654005196 c:\users\aleks\documents\uczelnia\2_jêzyki programowania obiektowego\aleksandra kopacz projekt - kasyno\ruletka.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Gracz.h"
+
